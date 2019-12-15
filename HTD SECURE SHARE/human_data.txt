@@ -1,7 +1,0 @@
-Soma	22
-Rashi	23
-Pranshu	22
-Rahul	27
-Tucker	28
-Vipul	24
-
